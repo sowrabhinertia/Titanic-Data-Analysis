@@ -1,0 +1,9 @@
+The average age of the people (both male and female) who died in the tragedy using Hadoop MapReduce
+Now from the mapper, we will derive:
+
+    the gender as the key
+    age as values
+
+These values will be passed to the shuffle and sort phase and are further sent to the reducer phase where the aggregation of the values is performed.
+
+

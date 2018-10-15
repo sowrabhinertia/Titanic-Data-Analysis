@@ -1,0 +1,2 @@
+we will find the number of people died or survived in each class with their genders and ages.
+Now from the mapper, we want to get the composite key which is the combination of Passenger class and gender and their age and final int value ‘1’ as values which will be passed to the shuffle and sort phase and are further sent to the reducer phase where the aggregation of the values is performed.
