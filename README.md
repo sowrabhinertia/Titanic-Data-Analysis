@@ -1,7 +1,6 @@
 # Titanic-Data-Analysis
 analysis of titanic dataset
 analyzing the data of Titanic.This total analysis is performed in Hadoop MapReduce.
-Using that dataset we will perform some Analysis and will draw out some insights like finding the average age of male and females died in Titanic, Number of males and females died in each compartment.
 
 DATA SET DESCRIPTION
 
